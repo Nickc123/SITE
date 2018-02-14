@@ -1,4 +1,7 @@
-<style>
+body{
+  border: 10px red solid;
+  padding: 20px;
+}
 h1 {
   font-size: 40px;
 }
@@ -30,7 +33,10 @@ h1{
 p{
   font-family: 'Open Sans Condensed', sans-serif;
 }
-
+p.normal{
+  border: 10px solid Red;
+  border-radius: 5px;
+}
 
 
 
